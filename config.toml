@@ -1,4 +1,5 @@
 baseURL = "https://humfrey28whu.github.io/"
+publishDir = docs
 title = "Home Page"
 theme = "hugo-coder"
 languageCode = "en"
